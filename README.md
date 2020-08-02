@@ -5,7 +5,7 @@ You can click the colab badges to open and interact with the notebooks in the go
 **Students** will work with these notebooks by cloning the repository into their Google Drive (associated with their @wesleyan.edu email accounts) and then opening the colab environment from their google drive. 
 
 **Topic**: Introduction to working with Jupyter Notebooks in the Classroom. <br>
-**Modified from (though not modified yet)**: Ashley Juavinett (https://github.com/ajuavinett) <br>
+**Obtained from**: Ashley Juavinett (https://github.com/ajuavinett) <br>
 Original available to clone from: https://github.com/ajuavinett/CellTypesLesson.git <br>
 **Notebook**:
 <a href="https://colab.research.google.com/github/neurologic/AnimalBehavior_SP2021/blob/master/Introduction%20to%20Jupyter%20Notebooks.ipynb">
