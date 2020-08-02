@@ -1,7 +1,8 @@
 # AnimalBehavior_SP2021
 
-Below are colab links to the jupyter notebooks contained in this course. 
-Students will work with these notebooks by cloning the repository into their Google Drive (associated with their @wesleyan.edu email accounts) and then opening the colab environment from their google drive. 
+Below are colab links to the jupyter notebooks contained in this course. <br>
+Although you can use these colab links to interact with the notebooks here, you won't be able to save your work. <b>
+**Students** will work with these notebooks by cloning the repository into their Google Drive (associated with their @wesleyan.edu email accounts) and then opening the colab environment from their google drive. 
 
 **Topic**: Hormonal Modulation of Behavior -- Parental care. <br>
 **Reading**: *Oxytocin enables maternal behaviour by balancing cortical inhibition*. Bianca J. Marlin, Mariela Mitre, James A. D’amour, Moses V. Chao & Robert C. Froemke. Nature (2015) <br>
