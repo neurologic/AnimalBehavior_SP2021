@@ -20,7 +20,7 @@ Available at: https://www.nature.com/articles/nature14402 <br>
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Topic**: Communication -- Turn Taking -- Neotropical Singing Mice and Zebra Finches. <br>
+**Topic**: Communication -- Interactions and Turn Taking -- Neotropical Singing Mice and Zebra Finches. <br>
 **Reading 1**: *Motor cortical control of vocal interaction in neotropical singing mice*. Daniel E. Okobi Jr.*, Arkarup Banerjee*, Andrew M. M. Matheson, Steven M. Phelps, Michael A. Long. Science (2019) <br>
 Available at: https://science.sciencemag.org/content/363/6430/983/tab-figures-data <br>
 **Reading 2**: *Inhibition within a premotor circuit controls the timing of vocal turn-taking in zebra finches*. Jonathan I. Benichov & Daniela Vallentin. Nature (2020) <br>
