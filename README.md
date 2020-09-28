@@ -29,3 +29,9 @@ Available at: https://www.nature.com/articles/s41467-019-13938-0 <br>
 <a href="https://colab.research.google.com/github/neurologic/AnimalBehavior_SP2021/blob/master/Communication_VocalTurnTaking/Communication_VocalTurnTaking.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+**Topic**: Communication -- Vocal Turn Taking -- Interactive Psychophysical Experiment. <br>
+**Notebook**:
+<a href="https://colab.research.google.com/github/neurologic/AnimalBehavior_SP2021/blob/master/VocalTurnTaking_ExampleExperiment.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
