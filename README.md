@@ -20,6 +20,14 @@ https://swcarpentry.github.io/python-novice-inflammation/02-numpy/index.html
 <br>
 https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228
 
+**Topic**: Genetic Basis of Behavior  -- Parental care. <br>
+**Reading**: *The genetic basis of parental care evolution in monogamous mice*. Andres Bendesky, Young-Mi Kwon, Jean-Marc Lassance, Caitlin L. Lewarch, Shenqin Yao, Brant K. Peterson, Meng Xiao He, Catherine Dulac & Hopi E. Hoekstra. Nature (2017) <br>
+Available at: https://www.nature.com/articles/nature22074 <br>
+**Notebook**:
+<a href="https://colab.research.google.com/github/neurologic/AnimalBehavior_SP2021/blob/master/EvolutionParentalBehavior/EvolutionParentalCare_Bendeskyetal_2017.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 **Topic**: Hormonal Modulation of Behavior -- Parental care. <br>
 **Reading**: *Oxytocin enables maternal behaviour by balancing cortical inhibition*. Bianca J. Marlin, Mariela Mitre, James A. D’amour, Moses V. Chao & Robert C. Froemke. Nature (2015) <br>
 Available at: https://www.nature.com/articles/nature14402 <br>
