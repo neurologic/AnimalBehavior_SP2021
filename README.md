@@ -11,6 +11,9 @@ Original available to clone from: https://github.com/ajuavinett/CellTypesLesson.
 <a href="https://colab.research.google.com/github/neurologic/AnimalBehavior_SP2021/blob/master/Introduction%20to%20Jupyter%20Notebooks.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+**Other Handy Resources**:
+https://swcarpentry.github.io/python-novice-inflammation/02-numpy/index.html
+https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228
 
 **Topic**: Hormonal Modulation of Behavior -- Parental care. <br>
 **Reading**: *Oxytocin enables maternal behaviour by balancing cortical inhibition*. Bianca J. Marlin, Mariela Mitre, James A. D’amour, Moses V. Chao & Robert C. Froemke. Nature (2015) <br>
