@@ -13,8 +13,8 @@ Original available to clone from: https://github.com/ajuavinett/CellTypesLesson.
 </a>
 
 **Other Handy Resources**:
-
 https://swcarpentry.github.io/python-novice-inflammation/02-numpy/index.html
+<br>
 https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228
 
 **Topic**: Hormonal Modulation of Behavior -- Parental care. <br>
