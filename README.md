@@ -14,6 +14,8 @@ Original available to clone from: https://github.com/ajuavinett/CellTypesLesson.
 
 **Other Handy Resources**:
 <br>
+https://github.com/jakevdp/WhirlwindTourOfPython/
+<br>
 https://swcarpentry.github.io/python-novice-inflammation/02-numpy/index.html
 <br>
 https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228
