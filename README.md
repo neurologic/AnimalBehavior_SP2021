@@ -11,6 +11,13 @@ Original available to clone from: https://github.com/ajuavinett/CellTypesLesson.
 <a href="https://colab.research.google.com/github/neurologic/AnimalBehavior_SP2021/blob/master/Introduction%20to%20Jupyter%20Notebooks.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+**Obtained from**: https://github.com/evettita/FisherLuDAlessandroWilson_AnalysisCode <br>
+This lesson has been developed by members of the teaching team at the Harvard Chan Bioinformatics Core (HBC) <br>
+**Notebook**:
+<a href="https://colab.research.google.com/github/neurologic/AnimalBehavior_SP2021/blob/master/Intro_to_Python_in_class_version.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 **Other Handy Resources**:
 <br>
